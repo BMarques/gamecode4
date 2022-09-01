@@ -15,6 +15,7 @@
     <None Include="..\GCC4EditorDLL\Editor.ico">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\GCC4EditorDLL\Editor.h">

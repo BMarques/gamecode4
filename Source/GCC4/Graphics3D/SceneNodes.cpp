@@ -54,7 +54,7 @@
 #include "tchar.h"
 #include "../ResourceCache/ResCache.h"
 
-#include <xnamath.h>
+#include <DirectXMath.h>
 
 
 ////////////////////////////////////////////////////

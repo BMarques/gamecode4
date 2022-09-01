@@ -44,7 +44,7 @@
 // class GameCode4_Hlsl_PixelShader				- Chapter 15, page 515
 //
 
-#include <xnamath.h>
+#include <DirectXMath.h>
 
 #include "Geometry.h"
 #include "Material.h"

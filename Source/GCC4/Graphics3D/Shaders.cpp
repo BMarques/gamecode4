@@ -47,7 +47,7 @@
 #include "SceneNodes.h"
 #include "../ResourceCache/ResCache.h"
 
-#include <xnamath.h>
+#include <DirectXMath.h>
 
 #pragma comment(lib, "effects11.lib")			// [mrmike] Note you can remove this if you don't want the D3DX11CreateEffectFromMemory API.
 #include "d3dx11effect.h"
