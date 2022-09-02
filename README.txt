@@ -38,11 +38,10 @@ Getting Started
 ===============================================================================
 
 Requirements:
-  1. Visual Studio 2022 (and some knowledge on how to build, run, and debug C++/C# projects)
-  2. Microsoft DirectX SDK (June 2010) 
-  3. The source code from GitHub
-        git clone https://github.com/BMarques/gamecode4.git
-  4. 3rdParty.zip on the root of the repository
+  1. Visual Studio 2022 with Game Development with C++ workload (and some knowledge on how to build, run, and debug C++/C# projects)
+  2. The source code from GitHub
+        git clone https://github.com/MikeMcShaffry/gamecode4.git
+  3. 3rdParty.7z on the root of the repository
         Unzip it into the root directory of the project - it will add directories to 
         Source.
   
