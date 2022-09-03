@@ -90,9 +90,6 @@
     </Compile>
     <Compile Include="NativeMethods.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="GCC4EditorDLL_2015.dll" />
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
